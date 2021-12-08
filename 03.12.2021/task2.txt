@@ -1,0 +1,1 @@
+Task2__Have a folder with some files, write a commandwich will put filenames and sizes into a new sorted file ordered by size.__ls -laS ls -laS |path|>sorted. 

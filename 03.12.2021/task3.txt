@@ -1,0 +1,1 @@
+ Task 3  Find a way to open google.com web site in terminal . I used ping.

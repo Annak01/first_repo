@@ -1,0 +1,1 @@
+Task 1__Write commands which will put fb.com web site hosting info a new fb.txt.__I used first cd Desktop then mkdir facebook, cd facebook, curl www.facebook.com and finally snap info curl.   
